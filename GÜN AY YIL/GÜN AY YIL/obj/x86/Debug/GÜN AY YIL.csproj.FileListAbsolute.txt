@@ -1,0 +1,9 @@
+E:\PROJELERİM\GÜN AY YIL\GÜN AY YIL\bin\Debug\GÜN AY YIL.exe
+E:\PROJELERİM\GÜN AY YIL\GÜN AY YIL\bin\Debug\GÜN AY YIL.pdb
+E:\PROJELERİM\GÜN AY YIL\GÜN AY YIL\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PROJELERİM\GÜN AY YIL\GÜN AY YIL\obj\x86\Debug\GÜN_AY_YIL.Form1.resources
+E:\PROJELERİM\GÜN AY YIL\GÜN AY YIL\obj\x86\Debug\GÜN_AY_YIL.Properties.Resources.resources
+E:\PROJELERİM\GÜN AY YIL\GÜN AY YIL\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\PROJELERİM\GÜN AY YIL\GÜN AY YIL\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\PROJELERİM\GÜN AY YIL\GÜN AY YIL\obj\x86\Debug\GÜN AY YIL.exe
+E:\PROJELERİM\GÜN AY YIL\GÜN AY YIL\obj\x86\Debug\GÜN AY YIL.pdb
